@@ -25,3 +25,6 @@ gem "pry", :group => "development"
 group :test do
   gem "rspec"
 end
+
+
+#this is what we had issue including gem 'hashie'
